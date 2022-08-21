@@ -1,5 +1,5 @@
 # from pip import main
-import pyttsx3  # Used for returning the speaking the output from the device
+import pyttsx3  # Used for speaking the output from the device
 import speech_recognition as sr  # Used for recognising the speech and returning a string output
 import pyaudio
 import datetime
